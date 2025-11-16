@@ -1,9 +1,6 @@
 
 # 🌊 AquaSure  
 ### Empowering Fisherfolk through Innovation, Intelligence, and Insurance  
-
-![AquaSure Banner](https://uploadthingy.s3.us-west-1.amazonaws.com/8HHuY2ZNZTWNFEoxm4DffB/Gemini_Generated_Image_88t7hb88t7hb88t7.png)
-
 ---
 
 ## 🚀 Overview  
